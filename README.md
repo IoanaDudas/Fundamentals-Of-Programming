@@ -1,3 +1,3 @@
 # Fundamentals-Of-Programming
 
-My project for the Fundamentals of Programming course at UBB
+My projects for the Fundamentals of Programming course at UBB semester 1.
