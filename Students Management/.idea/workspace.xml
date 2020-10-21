@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1fb2056c-bbc3-4e63-a775-9c724f09996f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="210" />
+  </component>
+  <component name="ProjectId" id="1TndJ50e2M4SAMDHlCxf2JJ9V62" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="PyCoverageOptionsProvider">
+    <option name="myUseBundledCoveragePy" value="true" />
+  </component>
+  <component name="RunManager" selected="Python.ui">
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python">
+      <module name="Assignment 6-8" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ui" type="PythonConfigurationType" factoryName="Python">
+      <module name="Assignment 6-8" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AppStart.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in test.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Assignment 6-8" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.ui" />
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python tests.Unittests in test.py" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests in test.py" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1fb2056c-bbc3-4e63-a775-9c724f09996f" name="Default Changelist" comment="" />
+      <created>1574099719002</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574099719002</updated>
+      <workItem from="1574165510945" duration="383000" />
+      <workItem from="1574693323385" duration="75000" />
+      <workItem from="1574693511398" duration="1518000" />
+      <workItem from="1574698381015" duration="5271000" />
+      <workItem from="1574706982403" duration="4867000" />
+      <workItem from="1574717835823" duration="8043000" />
+      <workItem from="1574754468934" duration="2919000" />
+      <workItem from="1574763450135" duration="39000" />
+      <workItem from="1574770739343" duration="3313000" />
+      <workItem from="1574949728474" duration="3779000" />
+      <workItem from="1574956115843" duration="46000" />
+      <workItem from="1574962054255" duration="391000" />
+      <workItem from="1575136529384" duration="4897000" />
+      <workItem from="1575161443236" duration="2945000" />
+      <workItem from="1575281804167" duration="2642000" />
+      <workItem from="1575302745878" duration="11322000" />
+      <workItem from="1575322479861" duration="4882000" />
+      <workItem from="1575363065135" duration="571000" />
+      <workItem from="1575363896885" duration="7649000" />
+      <workItem from="1575375161147" duration="3299000" />
+      <workItem from="1575379647792" duration="5000" />
+      <workItem from="1575379802823" duration="278000" />
+      <workItem from="1575911138720" duration="932000" />
+      <workItem from="1575925987624" duration="10413000" />
+      <workItem from="1575972616632" duration="1765000" />
+      <workItem from="1575976230880" duration="406000" />
+      <workItem from="1575979991220" duration="4643000" />
+      <workItem from="1575992869643" duration="37000" />
+      <workItem from="1576581120076" duration="2090000" />
+      <workItem from="1578927707714" duration="167000" />
+      <workItem from="1578950524116" duration="8332000" />
+      <workItem from="1578959817298" duration="24000" />
+      <workItem from="1579003765658" duration="898000" />
+      <workItem from="1579007557256" duration="5000" />
+      <workItem from="1579038845845" duration="718000" />
+      <workItem from="1580048468092" duration="67000" />
+      <workItem from="1580067438160" duration="2962000" />
+      <workItem from="1580117035368" duration="327000" />
+      <workItem from="1584370937348" duration="848000" />
+      <workItem from="1584376238375" duration="476000" />
+      <workItem from="1584378446267" duration="127000" />
+      <workItem from="1584379396446" duration="715000" />
+      <workItem from="1584465113889" duration="2490000" />
+      <workItem from="1584924979628" duration="4943000" />
+      <workItem from="1584944721055" duration="1031000" />
+      <workItem from="1597816688751" duration="635000" />
+      <workItem from="1598343741516" duration="82000" />
+      <workItem from="1598546346895" duration="709000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="633" y="365" key="com.intellij.ide.util.TipDialog" timestamp="1598343800456">
+      <screen x="0" y="23" width="1792" height="1022" />
+    </state>
+    <state x="633" y="365" key="com.intellij.ide.util.TipDialog/0.23.1792.1019@0.23.1792.1019" timestamp="1597816689759" />
+    <state x="633" y="365" key="com.intellij.ide.util.TipDialog/0.23.1792.1022@0.23.1792.1022" timestamp="1598343800456" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Assignment_6_8$test.coverage" NAME="test Coverage Results" MODIFIED="1575324442583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Assignment_6_8$Unittests_in_test_py.coverage" NAME="Unittests in test.py Coverage Results" MODIFIED="1575928981540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Assignment_6_8$ui.coverage" NAME="ui Coverage Results" MODIFIED="1584379502311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

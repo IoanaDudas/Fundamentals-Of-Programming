@@ -1,0 +1,10 @@
+13;John Steinbeck
+5;J. R. R. Tolkien
+14;Herman Melville
+18;Jane Austen
+3;Dan Brown
+4;J. D. Salinger
+23;Daniel Defoe
+6;Markus Zusak
+21;Jennifer Smith
+10;Paulo Coelho
